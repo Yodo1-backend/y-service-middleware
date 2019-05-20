@@ -1,0 +1,26 @@
+{
+  "name": "y-service-middleware",
+  "version": "1.0.2",
+  "description": "yodo1 service middleware",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yodo1-backend/y-service-middleware.git"
+  },
+  "keywords": [
+    "yodo1"
+  ],
+  "author": "xiachengxing@yodo1.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yodo1-backend/y-service-middleware/issues"
+  },
+  "homepage": "https://github.com/Yodo1-backend/y-service-middleware#readme",
+  "dependencies": {
+    "acl": "0.4.11",
+    "mongodb": "2.2.31",
+    "poseidon-node": "^0.3.5",
+    "redis": "2.8.0",
+    "y-server-tools": "0.0.5"
+  }
+}
