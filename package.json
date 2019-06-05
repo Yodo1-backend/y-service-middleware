@@ -1,6 +1,6 @@
 {
   "name": "y-service-middleware",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "yodo1 service middleware",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "acl": "0.4.11",
     "mongodb": "2.2.31",
-    "poseidon-node": "^0.3.5",
+    "poseidon-node": "0.3.5",
     "redis": "2.8.0",
     "y-server-tools": "0.0.5"
   }
