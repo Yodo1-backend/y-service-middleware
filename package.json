@@ -1,6 +1,6 @@
 {
   "name": "y-service-middleware",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "yodo1 service middleware",
   "main": "index.js",
   "repository": {
